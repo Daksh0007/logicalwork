@@ -11,7 +11,7 @@ public class LogicalworkApplication {
 
 	@GetMapping("/")
 	public String message() {
-		return "Al habibi Welocme to Dubai";
+		return "Al habibi Welcome to Dubai";
 	}
 	
 	public static void main(String[] args) {
